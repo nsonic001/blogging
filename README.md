@@ -51,7 +51,7 @@ How to run this
 
 
 ----------------------------------------------------------------
-**API to Blogs list with limit offset**
+**API to get Blogs list with limit offset**
 
 *GET(list) - /api/blog/?limit=<limit-val>&offset=<offset-val>*
 
