@@ -13,7 +13,7 @@ How to run this
 ``` 
 3. run command `npm install`
 4. run `node bin/www`
-5.Use API's given below
+5. use API's given below
 
 
 ----------------------------------------------------------------
