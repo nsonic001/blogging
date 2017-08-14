@@ -2,8 +2,12 @@
   "name": "blogging",
   "author": "Nilesh Soni",
   "devDependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.4",
     "mongoose": "^4.11.6",
     "request": "^2.81.0",
+    "underscore": "^1.8.3",
     "uuid": "^3.1.0"
   }
 }
