@@ -3,7 +3,7 @@
 How to run this
 
 1. install npm
-2. install nodejs
+2. install nodejs version >7.2.x
 3. create your own secrets.js inside `configs` and provide your db_credentials like given below
 ```
 	module.exports = {
